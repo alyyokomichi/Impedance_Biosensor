@@ -15,6 +15,7 @@ Explorar os dados de impedância elétrica coletados e determinar se os sistemas
   - Impedância em todo espectro da frequência e as concentrações do anticorpo
   - Valores de impedância em 1 Hz
   - Gráfico de dispersão dos sistemas na frequência de 1 Hz
+  - Realizando previsões
 * Conclusão
 
 ## Conclusão
